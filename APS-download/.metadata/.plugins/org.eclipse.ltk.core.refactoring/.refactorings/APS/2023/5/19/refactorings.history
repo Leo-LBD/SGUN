@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;view.TratamentoErros&apos; to &apos;Terminal&apos;&#x0D;&#x0A;- Original project: &apos;APS&apos;&#x0D;&#x0A;- Original element: &apos;view.TratamentoErros&apos;&#x0D;&#x0A;- Renamed element: &apos;view.Terminal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;TratamentoErros&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;view{TratamentoErros.java[TratamentoErros" matchStrategy="1" name="Terminal" qualified="false" references="true" similarDeclarations="false" stamp="1683494789295" textual="false" version="1.0"/>
+</session>
