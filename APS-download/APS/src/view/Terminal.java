@@ -52,7 +52,7 @@ public class Terminal implements Visualizacao{
 	public void listarCursos(Relacao registro) {
 		System.out.println("Todos os Cursos");
 		for(Curso c: registro.getCursos()) {
-			System.out.println("\n-------------------------\n");
+			System.out.println("\n--------------------------\n");
 			System.out.println(c);
 			
 		}
